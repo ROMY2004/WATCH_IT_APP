@@ -1,0 +1,14 @@
+package com.watchit.watch_it_app;
+//kjnkn
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+
+public class HelloController {
+    @FXML
+    private Label welcomeText;
+
+    @FXML
+    protected void onHelloButtonClick() {
+        welcomeText.setText("Welcome to JavaFX Application!");
+    }
+}
