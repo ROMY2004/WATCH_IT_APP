@@ -1,5 +1,4 @@
 package com.watchit.watch_it_app;
-//kjbk
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

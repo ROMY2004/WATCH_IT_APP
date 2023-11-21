@@ -1,5 +1,4 @@
 package com.watchit.watch_it_app;
-//kjnkn
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
